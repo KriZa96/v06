@@ -3,5 +3,4 @@
 
 namespace vsite::oop::v6
 {
-
 }
