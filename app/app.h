@@ -27,6 +27,5 @@ namespace vsite::oop::v6
 
 	private:
 		T arr[N];
-		unsigned long long size_;
 	};
 }
